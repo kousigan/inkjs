@@ -1,0 +1,60 @@
+{
+  "user": {
+    "avatar_url": "https://cdn.dribbble.com/users/2067990/avatars/normal/open-uri20180108-4971-1tdwuts?1515437765",
+    "bio": "",
+    "created_at": "2018-01-08 13:56:05 -0500",
+    "html_url": "https://dribbble.com/inkstellar",
+    "links": {},
+    "location": "Chennai, India",
+    "login": "inkstellar",
+    "name": "Kousigan Moni"
+  },
+  "shots": [
+    {
+      "id": 7671166,
+      "title": "Check Weather app mockup",
+      "description": null,
+      "images": {
+        "hidpi": "https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard.jpg",
+        "normal": "https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard_1x.jpg",
+        "one_x": "https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard_1x.jpg",
+        "two_x": "https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard_2x.jpg",
+        "four_x": "https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard_4x.jpg"
+      },
+      "tags": [
+        "adobe xd",
+        "app",
+        "illustration",
+        "ui",
+        "ux",
+        "ux design",
+        "ux process",
+        "uxresearch",
+        "web",
+        "xd"
+      ],
+      "html_url": "https://dribbble.com/shots/7671166-Check-Weather-app-mockup",
+      "published_at": "2019-10-19T18:50:40Z"
+    },
+    {
+      "id": 5688627,
+      "title": "Eventz Ux",
+      "description": "<p>Ux flow for a event management concept</p>",
+      "images": {
+        "hidpi": null,
+        "normal": "https://cdn.dribbble.com/users/2067990/screenshots/5688627/eventz-ux_.gif",
+        "one_x": "https://cdn.dribbble.com/users/2067990/screenshots/5688627/eventz-ux__1x.gif"
+      },
+      "tags": [
+        "adobe xd",
+        "ux animation",
+        "ux design",
+        "ux process",
+        "uxresearch",
+        "xd"
+      ],
+      "html_url": "https://dribbble.com/shots/5688627-Eventz-Ux",
+      "published_at": "2018-12-12T12:02:03Z"
+    }
+  ]
+}
