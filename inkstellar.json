@@ -2,35 +2,31 @@
   "name":"Kousigan",
   "age":32,
   "projects": [
-   { 
-    "name":"Travel App Concept", 
-    "image":"https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard_2x.jpg", 
-    "content":"This is a concept design for a Vacation travel booking. <a class='btn btn-link btn-sm float-right' role='button' href='https://www.behance.net/gallery/89457809/My-Travel-App' target='_blank'><i class='fab fa-behance'></i></a>" 
+   {
+    "name":"Employee Dashboard",
+    "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d6d87d94915733.5e8b0093dda17.png",
+    "link":"https://www.behance.net/gallery/94915733/Employee-Newsboard"
    },
-   { 
-    "name":"IRCTC Redesign", 
-    "image":"https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard_2x.jpg", 
-    "content":"This is a redesign prototype of IRCTC. The purpose is to make ticket booking easier and more elite. <a class='btn btn-link btn-sm float-right' role='button' href='https://www.behance.net/gallery/88372667/IRCTC-Redesign' target='_blank'><i class='fab fa-behance'></i></a>" 
-   },
-    { 
-    "name":"Check Weather", 
-    "image":"https://cdn.dribbble.com/users/2067990/screenshots/7671166/dashboard_2x.jpg", 
-    "content":"A concept app mockup for a weather application. <a class='btn btn-link btn-sm float-right' role='button' href='https://www.behance.net/gallery/87021257/Check-Weather' target='_blank'><i class='fab fa-behance'></i></a>" 
-   } ,
-    { 
-    "name":"Deep Sea", 
-    "image":"Deep-Sea.png", 
-    "content":"A concept app mockup for a Sea creatures reference. <a class='btn btn-link btn-sm float-right' role='button' href='https://www.behance.net/gallery/86951207/Deep-Sea' target='_blank'><i class='fab fa-behance'></i></a>" 
-   } ,
-    { 
-    "name":"The Food Shop", 
-    "image":"the-food-shop.png", 
-    "content":"A concept app for a online food store built using angular. The link to the project is on behance. <a class='btn btn-link btn-sm float-right' role='button' href='https://www.behance.net/gallery/76436981/The-Food-Shop' target='_blank'><i class='fab fa-behance'></i></a>" 
-   }  ,
-    { 
-    "name":"Image Search application", 
-    "image":"Image-search.png", 
-    "content":"A concept app for a image search built using Angular and Pixabay api. The link to the project is on behance. <a class='btn btn-link btn-sm float-right' role='button' href='https://www.behance.net/gallery/76435889/Photo-app-built-using-Angular' target='_blank'><i class='fab fa-behance'></i></a>" 
-   }
+   {
+    "name":"API List Dashboard",
+    "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/2fda8f93431281.5e64d1891b944.png",
+    "link":"https://www.behance.net/gallery/93431281/API-List-Dashboard"
+  },
+  {
+   "name":"Design portfolio mockup",
+   "image":"https://mir-s3-cdn-cf.behance.net/project_modules/fs/9d21ee89593033.5df9b3d6de009.png",
+   "link":"https://www.behance.net/gallery/89593033/Design-portfolio-mockup"
+ },
+ {
+  "name":"Travel App Design",
+  "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/26a88f89457809.5df53471e3730.png",
+  "link":"https://www.behance.net/gallery/89457809/My-Travel-App"
+},
+{
+ "name":"IRCTC ReDesign",
+ "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/539c6c88372667.5dd4a020925d1.jpg",
+ "link":"https://www.behance.net/gallery/88372667/IRCTC-Redesign"
+}
+
   ]
- } 
+ }
