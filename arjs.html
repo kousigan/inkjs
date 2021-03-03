@@ -5,11 +5,14 @@
 <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.5.0/aframe/build/aframe-ar.js"> </script>
   <body style='margin : 0px; overflow: hidden;'>
     <a-scene stats embedded arjs='trackingMethod: best;'>
-      <a-marker preset="pattern-19945713">
-      <a-box position='0 1 0' material='color: blue;'>
-      </a-box>
-      </a-marker>
-      <a-entity camera></a-entity>
+       <a-assets>
+         <video 
+                src="https://www.w3schools.com/html/mov_bbb.mp4"
+                preload="auto"
+                id="vid"
+                ></video>
+         </a-assets>
+      <a-video src="#vid" position ="50 150 -100" height="auto" width="auto"></a-video>
     </a-scene>
   </body>
 </html>
