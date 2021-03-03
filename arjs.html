@@ -5,15 +5,24 @@
 <script src="https://rawgit.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
 <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.5.0/aframe/build/aframe-ar.js"> </script>
   <body style='margin : 0px; overflow: hidden;'>
-    
-    <a-scene>
-  <a-assets>
-    <img id="my-image" src="fox.png">
-      </a-assets>
+  <a-scene embedded arjs='sourceType: webcam;'>
 
-  <!-- Using the asset management system. -->
-  <a-image src="#my-image"  width="3" height="1.5"></a-image>
-  <!-- Defining the URL inline. Not recommended but more comfortable for web developers. -->
- </a-scene>
+    <a-marker type='pattern' url='path/to/pattern-marker.patt'>
+      <a-box position='0 0.5 0' material='color: red;'></a-box>
+    </a-marker>
+
+
+    <a-marker preset='hiro'>
+      <a-box position='0 0.5 0' material='color: green;'></a-box>
+    </a-marker>
+
+
+    <a-marker type='barcode' value='5'>
+      <a-box position='0 0.5 0' material='color: blue;'></a-box>
+    </a-marker>
+
+
+    <a-entity camera></a-entity>
+  </a-scene>
   </body>
 </html>
