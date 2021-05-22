@@ -1,4 +1,20 @@
 [{
 	"userName": "Inkstellar",
-	"projects": []
+	"projects": [{
+		"projectId": "cgGxWmG9Mu87a0Jy9CwYL",
+		"projectName": "todo",
+		"boards": [{
+			"boardId": "ZRickyaJZOBKbLxu5kPS4",
+			"boardName": "untitled board"
+		}, {
+			"boardId": "Fafs3ZzfniclEDsrPr7JL",
+			"boardName": "Test"
+		}, {
+			"boardId": "B0ltaubUbmg-sZUJHtVtb",
+			"boardName": "Misc"
+		}, {
+			"boardId": "SgNSFQiUcCy_QAvVjiIFA",
+			"boardName": "Others"
+		}]
+	}]
 }]
