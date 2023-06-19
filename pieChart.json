@@ -1,0 +1,10 @@
+[{
+  "chartData":[{
+    "Injection":[{name:"Not started",y:12},{name:"Error",y:5},{name:"Completed",y:7}],
+    "Data Validation":[{name:"Not started",y:2},{name:"Error",y:15},{name:"Completed",y:7}],
+    "Data Validation":[{name:"Not started",y:2},{name:"Error",y:5},{name:"Completed",y:17}],
+    "Completed":[{name:"Not started",y:12},{name:"Error",y:5},{name:"Completed",y:7}],
+    "Reviewed":[{name:"Not started",y:2},{name:"Error",y:15},{name:"Completed",y:7}],
+    "Published":[{name:"Not started",y:2},{name:"Error",y:5},{name:"Completed",y:17}],
+  }]
+}]
