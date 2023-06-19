@@ -1,10 +1,36 @@
 [{
-   
-    "Injection":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}],
-    "Data Validation":[{"name":"Not started","y":2},{"name":"Error","y":15},{"name":"Completed","y":7}],
-    "Data Validation":[{"name":"Not started","y":2},{"name":"Error","y":5},{"name":"Completed","y":17}],
-    "Completed":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}],
-    "Reviewed":[{"name":"Not started","y":2},{"name":"Error","y":15},{"name":"Completed","y":7}],
-    "Published":[{"name":"Not started","y":2},{"name":"Error","y":5},{"name":"Completed","y":17}]
+   "id":0,
+   "name":"Injection"
+   "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}]
+ 
+},
+   {
+   "id":1,
+   "name":"Data Validation"
+   "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}]
+ 
+},
+   {
+   "id":2,
+   "name":"Data Enrichment"
+   "value":[{"name":"Not started","y":5},{"name":"Error","y":12},{"name":"Completed","y":3}]
+ 
+},
+   {
+   "id":3,
+   "name":"Completed"
+   "value":[{"name":"Not started","y":6},t{"name":"Error","y":5},{"name":"Completed","y":17}]
+ 
+},
+   {
+   "id":4,
+   "name":"Reviewed"
+   "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}]
+ 
+},
+   {
+   "id":5,
+   "name":"Published"
+   "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}]
  
 }]
