@@ -1,30 +1,30 @@
 [{
    "id":0,
-   "name":"Injection"
+   "name":"Injection",
    "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}],
 },
    {
    "id":1,
-   "name":"Data Validation"
+   "name":"Data Validation",
    "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}],
 },
    {
    "id":2,
-   "name":"Data Enrichment"
+   "name":"Data Enrichment",
    "value":[{"name":"Not started","y":5},{"name":"Error","y":12},{"name":"Completed","y":3}],
 },
    {
    "id":3,
-   "name":"Completed"
+   "name":"Completed",
    "value":[{"name":"Not started","y":6},{"name":"Error","y":5},{"name":"Completed","y":17}],
 },
    {
    "id":4,
-   "name":"Reviewed"
+   "name":"Reviewed",
    "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}],
 },
    {
    "id":5,
-   "name":"Published"
+   "name":"Published",
    "value":[{"name":"Not started","y":12},{"name":"Error","y":5},{"name":"Completed","y":7}],
 }]
