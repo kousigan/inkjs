@@ -21,7 +21,7 @@
    {
    "id":4,
    "name":"Reviewed",
-   "value":[{"name":"Completed","y":7},{"name":"Not started","y":12},{"name":"Pending","y":5}.,{"name":"Error","y":7}]
+   "value":[{"name":"Completed","y":7},{"name":"Not started","y":12},{"name":"Pending","y":5},{"name":"Error","y":7}]
 },
    {
    "id":5,
