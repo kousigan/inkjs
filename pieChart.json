@@ -1,30 +1,30 @@
 [{
    "id":0,
    "name":"Injection",
-   "value":[{"state":"Completed","y":7},{"state":"Failed","y":0}]
+   "value":[{"status":"Completed","y":7},{"status":"Failed","y":0}]
 },
    {
    "id":1,
    "name":"Data Validation",
-   "value":[{"state":"Completed","y":7},{"state":"Failed","y":0}]
+   "value":[{"status":"Completed","y":7},{"status":"Failed","y":0}]
 },
    {
    "id":2,
    "name":"Data Enrichment",
-   "value":[{"state":"Completed","y":3},{"state":"Failed","y":1}]
+   "value":[{"status":"Completed","y":3},{"status":"Failed","y":1}]
 },
    {
    "id":3,
    "name":"Completed",
-   "value":[{"state":"Completed","y":17},{"state":"Failed","y":7}]
+   "value":[{"status":"Completed","y":17},{"status":"Failed","y":7}]
 },
    {
    "id":4,
    "name":"Reviewed",
-   "value":[{"state":"Completed","y":7},{"state":"Failed","y":7}]
+   "value":[{"status":"Completed","y":7},{"status":"Failed","y":7}]
 },
    {
    "id":5,
    "name":"Published",
-   "value":[{"state":"Completed","y":7},{"state":"Failed","y":7}]
+   "value":[{"status":"Completed","y":7},{"status":"Failed","y":7}]
 }]
