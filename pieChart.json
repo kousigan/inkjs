@@ -26,5 +26,5 @@
    {
    "id":5,
    "name":"Published",
-   "value":[{"state":"Completed","y":7}{"state":"Failed","y":7}]
+   "value":[{"state":"Completed","y":7},{"state":"Failed","y":7}]
 }]
