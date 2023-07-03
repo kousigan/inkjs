@@ -1,11 +1,11 @@
 [{
    "id":0,
-   "name":"Injection",
+   "name":"Load Files",
    "value":[{"status":"Completed","y":7},{"status":"Failed","y":0}]
 },
    {
    "id":1,
-   "name":"Data Validation",
+   "name":"Map Fields",
    "value":[{"status":"Completed","y":7},{"status":"Failed","y":0}]
 },
    {
@@ -15,16 +15,6 @@
 },
    {
    "id":3,
-   "name":"Completed",
+   "name":"Calculation",
    "value":[{"status":"Completed","y":17},{"status":"Failed","y":7}]
-},
-   {
-   "id":4,
-   "name":"Reviewed",
-   "value":[{"status":"Completed","y":7},{"status":"Failed","y":7}]
-},
-   {
-   "id":5,
-   "name":"Published",
-   "value":[{"status":"Completed","y":7},{"status":"Failed","y":7}]
 }]
